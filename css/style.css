@@ -1,0 +1,73 @@
+body{
+    background-color: #232323;
+    margin: 0;
+}
+
+nav{
+    background-color: white;
+}
+
+#one{
+    background-color: rgb(42, 156, 190);
+    padding: 2.5% 0%;
+}
+
+#two{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(42, 156, 190);
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+
+
+.box{
+    width: 30%;
+    background-color: red;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+}
+
+#container{
+    width: 50%;
+    margin: 1% auto;
+}
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+#message{
+    display: inline-block;
+    width: 50%;
+}
+
+#again:hover{
+    background-color: rgb(42, 156, 190);
+    color: white;
+}
+
+#easy:hover{
+    background-color: rgb(42, 156, 190);
+    color: white;
+}
+
+#hard:hover{
+    background-color: rgb(42, 156, 190);
+    color: white;
+}
+
